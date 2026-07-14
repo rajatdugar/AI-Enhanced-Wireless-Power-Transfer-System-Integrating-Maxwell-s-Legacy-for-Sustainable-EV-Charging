@@ -4,3 +4,5 @@ RL models, and coil performance simulation in MATLAB, tools used Arduino IDE, Py
 Malaysia. Honored with the Best Paper Award for the research ISBN: 978-81-971457-3-5 
 
 
+https://zenodo.org/records/14932848
+
